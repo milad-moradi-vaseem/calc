@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="text">number</string>
+    <string name="One_text">one</string>
+    <string name="two_text">two</string>
+    <string name="three_text">three\n</string>
+    <string name="three_texr">three</string>
+    <string name="four_text" />
+    <string name="four_tex">four</string>
+    <string name="three_textt">three</string>
+    <string name="five_text">five</string>
+    <string name="six_text">six</string>
+    <string name="seven_text">seven</string>
+    <string name="eight_text">eight</string>
+    <string name="nine_text">nine</string>
+    <string name="zero_text">zero</string>
+    <string name="summary_text">summary</string>
+    <string name="subtraction_text">subtraction</string>
+    <string name="Beat_text" />
+    <string name="beat_textt">beat</string>
+    <string name="split_text">split</string>
+    <string name="plus_text">plus</string>
+    <string name="equal_text">equal</string>
+</resources>
